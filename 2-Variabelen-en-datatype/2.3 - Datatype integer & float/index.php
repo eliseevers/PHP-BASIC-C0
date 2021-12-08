@@ -3,10 +3,12 @@
 <body>
 
 <?php
-$leeftijd = 55;
-echo $leeftijd;
+$leeftijd = 16;
+$tekst1 = "mijn leeftijd is $leeftijd";
+echo $tekst1;
 $melkprijs = 0.98;
-echo $melkprijs;
+$tekst2 = "de melk prijs is $melkprijs";
+echo $tekst2;
 ?>
 
 </body>
