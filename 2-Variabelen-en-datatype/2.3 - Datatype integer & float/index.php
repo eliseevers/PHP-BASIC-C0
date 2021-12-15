@@ -4,7 +4,7 @@
 
 <?php
 $leeftijd = 16;
-$tekst1 = "mijn leeftijd is $leeftijd";
+$tekst1 = "mijn leeftijd is $leeftijd"; 
 echo $tekst1;
 $melkprijs = 0.98;
 $tekst2 = "de melk prijs is $melkprijs";
