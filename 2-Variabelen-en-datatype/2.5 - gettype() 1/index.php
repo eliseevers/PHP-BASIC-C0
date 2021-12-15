@@ -4,7 +4,7 @@
 
 <?php
 $voornaam = "Tom";
-echo gettype($voornaam);
+echo gettype($voornaam); 
 ?>
 
 </body>
