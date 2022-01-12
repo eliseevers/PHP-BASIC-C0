@@ -13,9 +13,6 @@ var_dump($_tekst_1 < $_tekst_2);
 var_dump($_tekst_1 <> $_tekst_2);
 var_dump($_tekst_1 >= $_tekst_2);
 var_dump($_tekst_1 <= $_tekst_2);
-
-
-
 ?>
 
 </body>
